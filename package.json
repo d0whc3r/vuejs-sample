@@ -1,0 +1,21 @@
+{
+  "name": "vuejs-sample",
+  "version": "0.0.1",
+  "description": "A simple template to get started with Vuejs framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "pushstate-server . 3000"
+  },
+  "dependencies": {
+    "pushstate-server": "^3.0.1",
+    "vue-router": "latest",
+    "vue": "latest"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "getlibs"
+  ]
+}
